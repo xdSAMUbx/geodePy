@@ -1,0 +1,32 @@
+# Ignorar bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de entorno virtual (si usas venv, pipenv, etc.)
+env/
+venv/
+ENV/
+*.egg-info/
+*.egg
+
+# Archivos de pruebas temporales
+*.log
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de pytest o unittest
+.cache/
+.pytest_cache/
+
+# Archivos de VSCode u otros editores
+.vscode/
+.idea/
+
+# Archivos de compilación
+build/
+dist/
+
+# Carpetas ocultas
+.*.swp
