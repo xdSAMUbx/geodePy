@@ -1,1 +1,1 @@
-from .conteo import Conteo
+from .conteo import conteo
